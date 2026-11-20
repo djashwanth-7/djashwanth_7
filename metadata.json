@@ -2,5 +2,7 @@
   "name": "ATS Lens",
   "description": "AI Resume Analyzer & ATS Score Checker powered by Gemini to evaluate resume-to-job alignment, matched skills, missing keywords, and actionable improvements.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
